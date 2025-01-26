@@ -52,13 +52,13 @@ To run this app, you need to have Flutter installed on your system. If you haven
 1. Clone this repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/SHAKTHI-VEL/quizflow-Testline-Assignment.git
    ```
 
 2. Change to the project directory:
 
    ```bash
-   cd 
+   cd quizflow-Testline-Assignment
    ```
 
 3. Install the dependencies:
