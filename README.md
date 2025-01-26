@@ -11,7 +11,7 @@
 Welcome to the QuizFlow App, a gamified quiz application designed to provide an engaging and interactive learning experience. This app is built using the Flutter framework, ensuring a responsive user interface that works seamlessly across various devices and orientations. The design focuses on simplicity, intuitiveness, and a fun user experience.
 
 ## Walkthrough
-[QuizFlow WALKTHROUGH](https://res.cloudinary.com/dgyvdwda7/video/upload/v1737909555/untitled_s07itx.webm)
+[QuizFlow WALKTHROUGH](https://github.com/user-attachments/assets/b872597f-793a-4f3c-8724-baab6ab02966)
 
 
 ![1](https://res.cloudinary.com/dgyvdwda7/image/upload/v1737908964/Screenshot_From_2025-01-26_21-56-02_lbbh12.png)
