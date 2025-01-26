@@ -14,14 +14,16 @@ Welcome to the QuizFlow App, a gamified quiz application designed to provide an 
 [QuizFlow WALKTHROUGH](https://github.com/user-attachments/assets/b872597f-793a-4f3c-8724-baab6ab02966)
 
 
-![1](https://res.cloudinary.com/dgyvdwda7/image/upload/v1737908964/Screenshot_From_2025-01-26_21-56-02_lbbh12.png)
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
 
-![2](https://res.cloudinary.com/dgyvdwda7/image/upload/v1737908981/Screenshot_From_2025-01-26_21-56-29_gstgpd.png)
+![1](https://res.cloudinary.com/dgyvdwda7/image/upload/v1737908964/Screenshot_From_2025-01-26_21-56-02_lbbh12.png)
+<br/>
+<br/>
+<br/>
+
+![2](https://res.cloudinary.com/dgyvdwda7/image/upload/v1737910130/Screenshot_From_2025-01-26_22-18-13_hpmb74.png)
 
 ## 💬💡 Features
 
